@@ -27,7 +27,7 @@ Works hard!
 5. Distributed memory programming
   - MPI programming
 
-#### this line is for Midterm exam
+#### --------this line is for Midterm exam--------
 
-####교재 참고문헌:
+교재 참고문헌:
 Parallel Programming with MPI, Morgan Kaufmann Publishers, by written Peter S. Pacheco
