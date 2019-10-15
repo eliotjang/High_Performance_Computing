@@ -15,41 +15,41 @@ Works hard!
 1. Introduction(1)
   - An overview of high performance computing
   - High performance computing and parallel programming
-  - Porgram compile
-  *book in chapter1*
+  - Porgram compile  
+    *book in chapter1*
   
 2. Introduction(2)
   - High performance computing environments
   - Shared memory vs. distributed memory programming
-  - C programming for pi calculation
-  *book in chater2*
+  - C programming for pi calculation  
+    *book in chater2*
   
 3. Shared memory programming
   - OpenMP programming I
   - OpenMP programming
-  - OpenMP programming for pi calculation
-  *book in chapter5*
+  - OpenMP programming for pi calculation  
+    *book in chapter5*
   
 4. Shared memory programming
   - OpenMP programming II
   - OpenMP IPC programming
-  - IPC programming
-  *book in chapter5*
+  - IPC programming  
+    *book in chapter5*
   
 5. Distributed memory programming
   - MPI programming
-  - OpenMP programming for dotproduct
-  *book in chapter3*
+  - OpenMP programming for dotproduct  
+    *book in chapter3*
 
 6. Distributed memory programming
   - Point-to-point communication
-  - MPI programming for decompose and compose
-  *book in chapter3*
+  - MPI programming for decompose and compose  
+    *book in chapter3*
   
 7. Distributed memory programming
   - Collective communication
   - Preaparation for midterm exam  
-  *book in chatper3*
+    *book in chatper3*
 
 #### --------this line is for Midterm exam--------
 
