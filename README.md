@@ -15,17 +15,26 @@ Works hard!
 1. Introduction(1)
   - An overview of high performance computing
   - High performance computing and parallel programming
+  *book in chapter1
+  
 2. Introduction(2)
   - High performance computing environments
   - Shared memory vs. distributed memory programming
+  *book in chater2
+  
 3. Shared memory programming
   - OpenMP programming I
   - OpenMP programming
+  *book in chapter5
+  
 4. Shared memory programming
   - OpenMP programming II
   - OpenMP IPC programming
+  *book in chapter5
+  
 5. Distributed memory programming
   - MPI programming
+  *book in chapter3
 
 #### --------this line is for Midterm exam--------
 
