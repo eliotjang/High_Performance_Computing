@@ -4,7 +4,7 @@
 
 ## 언어
 
-- C
+- C/C++
 
 ## 운영체제
 
@@ -21,7 +21,7 @@
 
 ## Language
 
-- C
+- C/C++
 
 ## Operating System
 
